@@ -1,7 +1,7 @@
 # Adventure_Works_Project-4
 Adventure Works is Cycle manufacturing company and they have hired business analyst to assist them in growing their business.
 
-**Objective:** To derive actionable insights from the data at hand.
+**Objective:** To design and deliver a professional-quality, end-to-end business intelligence solution, armed only with Power BI and a handful of raw csv files.
 
 **Summary of Project:**
 * Importing all the data sets in Power BI
